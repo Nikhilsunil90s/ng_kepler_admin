@@ -12,5 +12,5 @@ app.get('/*', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`Example app listening at ${port}`)
+  console.log(`App now live at : ${port}`)
 })
